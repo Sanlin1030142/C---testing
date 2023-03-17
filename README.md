@@ -1,6 +1,6 @@
 # C---testing
 在資料夾右鍵->開啟terminal
-> code .
+輸入code .
 進入VS code
 打開原始檔控制
 codeign time ...
